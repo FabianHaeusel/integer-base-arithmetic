@@ -1,6 +1,6 @@
 # integer-base-arithmetic
 This repository contains a C-program for performing basic arithmetic operations on numbers in number systems with arbitrary integer bases.
-It was created in the practical course "**Grundlagenpraktikum: Rechnerarchitektur (GRA)**" (computer architecture) in the summer semester 2023 by the computer science students [@felixhauptmann](https://github.com/felixhauptmann), Dominik Schneider and [@FabianHaeusel](https://github.com/FabianHaeusel) at the Technical University Munich (TUM).
+It was created in the practical course "**Grundlagenpraktikum: Rechnerarchitektur (GRA)**" (computer architecture) in the summer semester 2023 by the computer science students [@felixhauptmann](https://github.com/felixhauptmann), [@DominikSch004](https://github.com/DominikSch004) and [@FabianHaeusel](https://github.com/FabianHaeusel) at the Technical University Munich (TUM).
 
 The german project title was "Arithmetik in Zahlensystemen mit ganzzahliger Basis".
 
